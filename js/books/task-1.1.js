@@ -241,6 +241,7 @@ const books = [
   },
 ];
 
+// Знайти всі книги жанру 'Fantasy'
 
 const fantasyBook = (items) => {
 
