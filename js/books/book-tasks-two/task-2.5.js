@@ -6,7 +6,7 @@ import { books } from "../arrays/array-books.js";
 
 const findBookRatingLower = (items) => {
 
-    const result = items.find(tem => items.rating >= 4.8)
+    const result = items.find(item => item.rating >= 4.8)
 
     return result;
 
