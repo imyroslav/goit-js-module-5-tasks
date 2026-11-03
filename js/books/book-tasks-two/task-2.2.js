@@ -2,7 +2,7 @@
 
 //Знайти першу книгу, видану після 2000 року.
 
-import { books } from "./array-books.js";
+import { books } from "../arrays/array-books.js";
 
 const bookIssuedAfter = (items) => {
 

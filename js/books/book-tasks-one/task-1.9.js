@@ -2,7 +2,7 @@
 
 // Знайти всі книги, автором яких є 'J.R.R. Tolkien'.
 
-import { books } from "./array-books.js";
+import { books } from "../arrays/array-books.js";
 
 function authorTolkien (elements) {
 

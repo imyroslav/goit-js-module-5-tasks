@@ -2,7 +2,7 @@
 
 // Знайти першу книгу, автором якої є 'Fyodor Dostoevsky'.
 
-import { books } from "./array-books.js";
+import { books } from "../arrays/array-books.js";
 
 
 function findFyodorBook (elems) {

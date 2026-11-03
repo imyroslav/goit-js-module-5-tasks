@@ -1,6 +1,6 @@
 //  Знайти всі книги з рейтингом 4.8 і вище.
 
-import { books } from "./array-books.js"
+import { books } from "../arrays/array-books.js"
 
 const booksWithRatingLowerForPointEight = (books) => {
 

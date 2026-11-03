@@ -2,7 +2,7 @@
 
 // Знайти всі книги, видані до 1900 року
 
-import { books } from "./array-books.js";
+import { books } from "../arrays/array-books.js";
 
 const editionBeforeNineteenHundred = (books) => {
 

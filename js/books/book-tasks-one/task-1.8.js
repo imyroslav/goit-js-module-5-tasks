@@ -2,7 +2,7 @@
 
 // Знайти всі книги, що містять слово 'and' у назві
 
-import { books } from "./array-books.js";
+import { books } from "../arrays/array-books.js";
 
 const booksWithAndInTheTitle = (items) => {
 

@@ -2,7 +2,7 @@
 
 // найти першу книгу жанру 'Fantasy'.
 
-import { books } from "./array-books.js";
+import { books } from "../arrays/array-books.js";
 
 function genreFantesyFirstBook (items) {
 

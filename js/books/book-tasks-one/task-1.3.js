@@ -1,4 +1,4 @@
-import { books } from "./array-books.js"
+import { books } from "../arrays/array-books.js"
 
 
 // Знайти всі книги, автором яких є 'Fyodor Dostoevsky'

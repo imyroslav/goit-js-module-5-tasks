@@ -1,5 +1,5 @@
 
-import { books } from "./array-books.js"
+import { books } from "../arrays/array-books.js"
 
 
 // Знайти всі книги, видані після 2000 року.

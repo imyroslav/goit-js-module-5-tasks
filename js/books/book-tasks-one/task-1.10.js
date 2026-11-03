@@ -3,7 +3,7 @@
 // Знайти всі книги жанру 'Historical' з рейтингом вище 4.7.
 
 
-import { books } from "./array-books.js";
+import { books } from "../arrays/array-books.js";
 
 const histricBooksWithRatingHigher = (elements) => {
 

@@ -1,6 +1,6 @@
 //  Знайти всі книги з ціною меншою ніж 10 доларів.
 
-import { books } from "./array-books.js"
+import { books } from "../arrays/array-books.js"
 
 const booksCheaperThanTen = (books) => {
     const result = books.filter(book => book.price < 10);
